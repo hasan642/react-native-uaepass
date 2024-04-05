@@ -8,6 +8,8 @@ import {
 } from 'react-native';
 import { UAEPass } from 'react-native-uaepass';
 
+
+
 const UAEPassConfig = {
   env: 'staging', // or production // default staging
   clientId: 'clientId',
